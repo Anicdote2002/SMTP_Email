@@ -1,0 +1,6 @@
+﻿  The vcpkg manifest was disabled, but we found a manifest file in C:\Users\Aniruddh.Chauhan\Documents\SMTP_SendEmail\Project1\Project1\. You may want to enable vcpkg manifests in your properties page or pass /p:VcpkgEnableManifest=true to the msbuild invocation.
+  SendEmail_Standard.cpp
+C:\Users\Aniruddh.Chauhan\Documents\SMTP_SendEmail\Project1\Project1\SendEmail_Standard.cpp(8,10): fatal  error C1083: Cannot open include file: 'openssl/ssl.h': No such file or directory
+  Send_Email.cpp
+C:\Users\Aniruddh.Chauhan\Documents\SMTP_SendEmail\Project1\Project1\Send_Email.cpp(6,10): fatal  error C1083: Cannot open include file: 'openssl/ssl.h': No such file or directory
+  Generating Code...

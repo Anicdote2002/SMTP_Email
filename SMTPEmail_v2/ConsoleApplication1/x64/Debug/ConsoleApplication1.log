@@ -1,0 +1,11 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Aniruddh.Chauhan\Documents\SMTP_SendEmail\SMTPEmail_v2\ConsoleApplication1\ConsoleApplication1.cpp(58,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Aniruddh.Chauhan\Documents\SMTP_SendEmail\SMTPEmail_v2\ConsoleApplication1\ConsoleApplication1.cpp(69,40): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Aniruddh.Chauhan\Documents\SMTP_SendEmail\SMTPEmail_v2\ConsoleApplication1\ConsoleApplication1.cpp(77,21): warning C4244: 'argument': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\Aniruddh.Chauhan\Documents\SMTP_SendEmail\SMTPEmail_v2\ConsoleApplication1\ConsoleApplication1.cpp(81,48): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Aniruddh.Chauhan\Documents\SMTP_SendEmail\SMTPEmail_v2\ConsoleApplication1\ConsoleApplication1.cpp(88,36): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Aniruddh.Chauhan\Documents\SMTP_SendEmail\SMTPEmail_v2\ConsoleApplication1\ConsoleApplication1.cpp(95,34): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Aniruddh.Chauhan\Documents\SMTP_SendEmail\SMTPEmail_v2\ConsoleApplication1\ConsoleApplication1.cpp(100,38): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Aniruddh.Chauhan\Documents\SMTP_SendEmail\SMTPEmail_v2\ConsoleApplication1\ConsoleApplication1.cpp(107,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Aniruddh.Chauhan\Documents\SMTP_SendEmail\SMTPEmail_v2\ConsoleApplication1\ConsoleApplication1.cpp(112,38): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  ConsoleApplication1.vcxproj -> C:\Users\Aniruddh.Chauhan\Documents\SMTP_SendEmail\SMTPEmail_v2\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

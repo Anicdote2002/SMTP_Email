@@ -1,0 +1,4 @@
+C:\Users\Aniruddh.Chauhan\Documents\SMTP_SendEmail\SMTPEmail_v2\ConsoleApplication1\x64\Debug\ConsoleApplication1.vcxproj.CopyComplete
+C:\Users\Aniruddh.Chauhan\Documents\SMTP_SendEmail\SMTPEmail_v2\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+C:\Users\Aniruddh.Chauhan\Documents\SMTP_SendEmail\SMTPEmail_v2\ConsoleApplication1\x64\Debug\libcrypto-3-x64.dll
+C:\Users\Aniruddh.Chauhan\Documents\SMTP_SendEmail\SMTPEmail_v2\ConsoleApplication1\x64\Debug\libssl-3-x64.dll
